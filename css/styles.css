@@ -1,0 +1,114 @@
+#title {
+  background-image: url("hoamai.jpg");
+  background-size: cover;
+  padding: 4% 4% 0;
+  text-align: center;
+}
+
+.title1{
+  padding: 0 3% 0;
+  font-family: Merriweather, sans-serif;
+  color: black;
+  line-height: 60px;
+  font-size: 3rem;
+}
+
+.title2 {
+  padding-top: 7%;
+  color: black;
+  font-family: Merriweather;
+  }
+
+
+#about-us {
+background-color: #FFF8F3;
+  padding: 6% 4% 4% 4%;
+  text-align: center;
+  font-family: Merriweather,sans-serif;
+  line-height: 1.8rem;
+  background: url("hoamai2.png") left 0px top no-repeat,url("hoamai3.png") right 0px top no-repeat;;
+
+}
+
+
+.text1, .text2 {
+  padding: 4% 5% 2%;
+}
+
+#whatweoffer {
+  background-color: #FFCC1D;
+  text-align: center;
+  padding: 10% 4% 5%;
+  font-family: Merriweather,sans-serif;
+
+}
+
+.icona1, .icona2, .icona3 {
+  padding-bottom: 30px;
+  color: #357C3C;
+}
+
+.icona1:hover, .icona2:hover, .icona3:hover {
+  color: #519259;
+}
+
+.title {
+  color: #519259;
+}
+
+.title:hover {
+  color: #357C3C;
+}
+.text3, .text4, .text5{
+  padding: 2% 16% 0;
+  color: #444941;
+}
+
+#pricing {
+  background-color: #FFF8F3;
+  padding: 6% 4% 4% 4%;
+  text-align: center;
+  font-family: Merriweather,sans-serif;
+}
+
+.text6 {
+  padding: 3% 0 3%;
+  color: #444941;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.btn {
+  width: 100%;
+}
+
+.price {
+  text-align: center;
+  font-weight: bold;
+}
+
+#contact {
+  background-color: #FFCC1D;
+  text-align: center;
+  font-family: Merriweather,sans-serif;
+  padding: 6% 4% 4% 4%;
+}
+
+.icona4, .icona5, .icona6, .icona7 {
+  color: #519259;
+  padding: 3% 3% 0;
+}
+
+.icona4:hover, .icona5:hover, .icona6:hover {
+  color: #357C3C;
+}
+
+.text7 {
+  color: #357C3C;
+}
+
+.text7:hover {
+  color: #519259;
+}
